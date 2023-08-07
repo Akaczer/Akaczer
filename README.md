@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Akaczer
-- 👀 I’m interested in sex
-- 🌱 I’m currently learning sex
-- 💞️ I’m looking to collaborate on sex
-- 📫 How to reach me sex
-
 [![Akaczer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akaczer&count_private=true&hide=stars&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
